@@ -1,8 +1,6 @@
-//![alt text](github_url_image?raw=true)to add image
-
--   ## Title of the project
-
-prepared by:
+-   ## Twitter Sentiment Analysis
+![alt text](https://github.com/Huzaifa-Nusairat/Twitter_Sentiment_Analysis/blob/master/Images/1_vp1M37AGMOFwCvLxVm62IA.jpeg?raw=true)
+prepared by:Huzaifa Nusairat
 
 -   ## problem overview
 
